@@ -77,7 +77,7 @@ The multidisciplinary team steering BreachMatrix's in-house software development
 
 Leads research and creative development, transforming complex ideas into innovative solutions and compelling visual experiences. Focuses on exploring new concepts, developing creative strategies, and building strong visual identities that communicate the company's vision.
 
-<img src="./tickers/ticker_rajamadan.svg" alt="Specialization ticker: Rajamadan" width="560" />
+<img src="./ticker_rajamadan.svg" alt="Specialization ticker: Rajamadan" width="560" />
 
 </td>
 </tr>
@@ -94,7 +94,7 @@ Leads research and creative development, transforming complex ideas into innovat
 
 Leads UI/UX design and application development, creating intuitive interfaces and seamless digital experiences. Focuses on user-centred design, functional application architecture, and translating ideas into practical, engaging, and reliable digital products.
 
-<img src="./tickers/ticker_ashwinkiruba.svg" alt="Specialization ticker: Ashwinkiruba" width="560" />
+<img src="./ticker_ashwinkiruba.svg" alt="Specialization ticker: Ashwinkiruba" width="560" />
 
 </td>
 </tr>
@@ -111,7 +111,7 @@ Leads UI/UX design and application development, creating intuitive interfaces an
 
 Leads website development and contributes to AI research, building responsive, high-performance websites and exploring intelligent technologies. Focuses on technical innovation, web optimisation, and developing AI-driven solutions that improve functionality and deliver meaningful user experiences.
 
-<img src="./tickers/ticker_santhosh.svg" alt="Specialization ticker: Santhosh" width="560" />
+<img src="./ticker_santhosh.svg" alt="Specialization ticker: Santhosh" width="560" />
 
 </td>
 </tr>
@@ -128,7 +128,7 @@ Leads website development and contributes to AI research, building responsive, h
 
 Specialises in mobile application development across Android and iOS, building intuitive, responsive, and user-friendly applications. Focuses on creating seamless mobile experiences, integrating intelligent features, and sharing machine learning knowledge through practical training and hands-on implementation.
 
-<img src="./tickers/ticker_jegankarthi.svg" alt="Specialization ticker: Jegan Karthi" width="560" />
+<img src="./ticker_jegankarthi.svg" alt="Specialization ticker: Jegan Karthi" width="560" />
 
 </td>
 </tr>
@@ -145,7 +145,7 @@ Specialises in mobile application development across Android and iOS, building i
 
 Specialises in backend engineering and machine learning research, developing reliable server-side systems and exploring intelligent computational solutions. Focuses on designing scalable architectures, optimising application performance, building efficient APIs, and researching machine learning techniques to solve complex real-world problems.
 
-<img src="./tickers/ticker_varshan.svg" alt="Specialization ticker: Varshan" width="560" />
+<img src="./ticker_varshan.svg" alt="Specialization ticker: Varshan" width="560" />
 
 </td>
 </tr>
