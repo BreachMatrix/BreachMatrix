@@ -74,7 +74,7 @@ for your business or individual ventures.
 
 <br />
 
-<img src="./tickers/ticker_contact.svg" alt="Have an idea? Let's talk · Need a website? We can help · Let's build something great · Got a question? Reach out · We're here to help · Let's connect" width="760" />
+<img src="./ticker_contact.svg" alt="Have an idea? Let's talk · Need a website? We can help · Let's build something great · Got a question? Reach out · We're here to help · Let's connect" width="760" />
 
 <br />
 
