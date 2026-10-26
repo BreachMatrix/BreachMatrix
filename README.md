@@ -1,14 +1,12 @@
-<div align="center">
-
-<img src="./logo_thunder_strike_transparent.gif" alt="BreachMatrix logo" width="380" />
+<img align="right" src="./logo_thunder_strike_transparent.gif" alt="BreachMatrix logo" width="260" />
 
 # BREACHMATRIX
 
 **Software Products & Website Development**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1400&color=D4FF00&center=true&vCenter=true&width=720&height=40&lines=Independent+software+products;Bespoke+website+development;Clean+engineering.+Practical+utility.;YOU+REACH+OUT.+WE+SHOW+UP.">
-  <img alt="Independent software products · Bespoke website development · You reach out. We show up." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1400&color=6B7D00&center=true&vCenter=true&width=720&height=40&lines=Independent+software+products;Bespoke+website+development;Clean+engineering.+Practical+utility.;YOU+REACH+OUT.+WE+SHOW+UP.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1400&center=false&vCenter=true&width=540&height=40&lines=Independent+software+products;Bespoke+website+development;Clean+engineering.+Practical+utility.;YOU+REACH+OUT.+WE+SHOW+UP.&color=D4FF00">
+  <img alt="Independent software products · Bespoke website development · You reach out. We show up." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1400&center=false&vCenter=true&width=540&height=40&lines=Independent+software+products;Bespoke+website+development;Clean+engineering.+Practical+utility.;YOU+REACH+OUT.+WE+SHOW+UP.&color=6B7D00">
 </picture>
 
 <br />
@@ -21,7 +19,7 @@
 ![Service](https://img.shields.io/badge/SERVICE-Custom_Website_Development-0a0a0c?style=flat-square&labelColor=d4ff00&color=0a0a0c)
 ![Years](https://img.shields.io/badge/ACTIVE-2024%E2%80%932026-0a0a0c?style=flat-square&labelColor=d4ff00&color=0a0a0c)
 
-</div>
+<br clear="all" />
 
 <br />
 
@@ -29,7 +27,7 @@
 
 <br />
 
-## // 01. BUSINESS OVERVIEW
+## 01. BUSINESS OVERVIEW
 
 **PROPRIETARY SOFTWARE PRODUCTS & CLIENT SERVICES**
 
@@ -39,13 +37,13 @@ Our software products are engineered internally to solve daily operational bottl
 
 <br />
 
-| // ESTABLISHED PRODUCT | // CLIENT SERVICE |
+| ESTABLISHED PRODUCT | CLIENT SERVICE |
 | :--- | :--- |
 | **KRAFT — A REMARKABLE SURPRISE**<br /><br />Our active software product designed to eliminate daily operational friction. Kraft streamlines disjointed workflow tasks and relieves individuals and teams from repetitive manual burdens with intuitive digital execution. | **CUSTOM WEBSITE DEVELOPMENT**<br /><br />As a website development company, we provide custom website development services to businesses and individual clients. We build fast, responsive, and search-optimized web platforms tailored to client objectives. |
 
 <br />
 
-## // 02. OUR COMMITMENT
+## 02. OUR COMMITMENT
 
 **CONTINUOUS DEVELOPMENT & PRAGMATIC INNOVATION**
 
@@ -55,7 +53,7 @@ By pairing disciplined product craft with attentive client partnerships, BreachM
 
 <br />
 
-## // 03. EXECUTIVE LEADERSHIP
+## 03. EXECUTIVE LEADERSHIP
 
 **LEADERSHIP & TECHNICAL DIRECTION**
 
@@ -108,7 +106,7 @@ Specialises in backend engineering and machine learning research, developing rel
 
 <br />
 
-## // 04. CONTACT
+## 04. CONTACT
 
 <div align="center">
 
